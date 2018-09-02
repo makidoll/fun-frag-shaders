@@ -3,7 +3,7 @@
 
 ## Lava Lamp
 
-<img width="300" height="120" src="https://maki.cat/vrchat/lavalamp2.gif">
+<img width="300" height="120" src="https://maki.cat/vrchat/lavalamp.gif">
 
 ### Download [Lava Lamp.shader](https://raw.githubusercontent.com/makitsune/fun-frag-shaders/master/Lava%20Lamp.shader)
 
