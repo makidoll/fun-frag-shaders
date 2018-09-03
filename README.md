@@ -1,7 +1,7 @@
 # Fun Fragment Shaders
 > 🎨 Fun fragment shaders that you can use in Unity.
 
-### Download [all shaders](https://github.com/makitsune/fun-frag-shaders/archive/master.zip)
+### [Download all shaders](https://github.com/makitsune/fun-frag-shaders/archive/master.zip)
 
 ## Lava Lamp
 
