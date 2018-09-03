@@ -5,7 +5,7 @@
 
 <img width="300" height="120" src="https://maki.cat/vrchat/lavalamp.gif">
 
-### Download [Lava Lamp.shader](https://raw.githubusercontent.com/makitsune/fun-frag-shaders/master/Lava%20Lamp.shader)
+### Download [Lava Lamp (Unlit).shader](https://raw.githubusercontent.com/makitsune/fun-frag-shaders/master/Lava%20Lamp%20%28Unlit%29.shader)
 
 Fun shader to stick on your VRChat avatar. Things you can customize:
 
