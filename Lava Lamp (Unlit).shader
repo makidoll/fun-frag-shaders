@@ -109,8 +109,8 @@
 
 				fragOut f;
 				//f.depth = clipDepth;
-				f.color = color;
 				UNITY_APPLY_FOG(i.fogCoord, color);
+				f.color = color;
 				return f;
 			}
 			ENDCG
